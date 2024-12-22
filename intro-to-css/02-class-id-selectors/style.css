@@ -1,0 +1,20 @@
+/* style.css */
+
+.odd {
+    background-color: rgb(255,167,167);
+    font-weight: 70;
+    font-size: 18px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+} 
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+} 
+.extra{
+    font-size: 24px;
+} 
+.fourth{
+    background-color: lightgreen;
+} 
+
